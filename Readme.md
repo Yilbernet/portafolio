@@ -1,4 +1,4 @@
-# Portfaolio Personal
+# Portafolio Personal
 
 Este es el sitio web de mi portafolio personal construido con react.
 
